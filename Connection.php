@@ -1,5 +1,5 @@
 class DB{
-    private static $server = "mysql:host=localhost;dbname=tazaordersdb";
+    private static $server = "mysql:host=localhost;dbname=db";
     private static $user = "root";
     private static $password = "";
     private static $options = array(
